@@ -1,0 +1,18 @@
+body{
+    /*Solution 1*/
+    margin: 0;
+    padding: 0;
+    /*position: fixed;*/
+}
+
+html, body{
+    overflow: hidden; /*prevents overscrolling on the page when there are no js mouse captures being used (i.e. only animations used)*/
+}
+
+.webgl{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none; /*Remove the blue border when highlighting on the canvas*/
+
+}
