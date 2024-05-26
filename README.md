@@ -1,6 +1,6 @@
 # TD Three.js Journey
 
-Welcome to my experience throughout the **Three.js Journey**course! This repository is a collection of lessons, experiments, and projects developed while learning and exploring the capabilities of Three.js, a powerful JavaScript library for creating 3D graphics on the web!
+Welcome to my experience throughout the **Three.js Journey** course! This repository is a collection of lessons, experiments, and projects developed while learning and exploring the capabilities of Three.js, a powerful JavaScript library for creating 3D graphics on the web!
 
 ## Table of Contents
 - [Introduction](#introduction)
