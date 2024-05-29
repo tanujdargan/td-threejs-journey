@@ -13,18 +13,8 @@ const scene = new THREE.Scene()
 /**
  * Object
  */
-const geometry = new THREE.BufferGeometry()
-const count = 50
-const positionsArray = new Float32Array(count * 3 * 3)
-for(let i = 0; i < count * 3 * 3; i++)
-{
-    positionsArray[i] = (Math.random() - 0.5) * 4
-}
-const positionsAttribute = new THREE.BufferAttribute(positionsArray, 3)
-geometry.setAttribute('position', positionsAttribute)
-
-const material = new THREE.MeshBasicMaterial({ color: 0xff0000, wireframe: true })
-
+const geometry = new THREE.BoxGeometry(1, 1, 1)
+const material = new THREE.MeshBasicMaterial({ color: 0xff0000 })
 const mesh = new THREE.Mesh(geometry, material)
 scene.add(mesh)
 
@@ -56,7 +46,9 @@ window.addEventListener('resize', () =>
  */
 // Base camera
 const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height, 0.1, 100)
-camera.position.z = 3
+camera.position.x = 1
+camera.position.y = 1
+camera.position.z = 1
 scene.add(camera)
 
 // Controls
