@@ -19,7 +19,7 @@ To be added.
 
 ## Showcase
 
-To be added.
+- https://threejs-lesson13-webgl-3dtext.vercel.app/
 
 ## Usage
 
