@@ -19,7 +19,8 @@ To be added.
 
 ## Showcase
 
-- https://threejs-lesson13-webgl-3dtext.vercel.app/
+- https://threejs-lesson13-webgl-3dtext.vercel.app/ - Lesson 13 WebGL 3D Text
+- https://lesson-16-haunted-house.vercel.app/ - Lesson 16 Haunted House
 
 ## Usage
 
