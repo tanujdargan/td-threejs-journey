@@ -22,6 +22,7 @@ To be added.
 - https://threejs-lesson13-webgl-3dtext.vercel.app/ - Lesson 13 WebGL 3D Text
 - https://lesson-16-haunted-house.vercel.app/ - Lesson 16 Haunted House
 - https://galaxy-generator-td.vercel.app/ - Lesson 18 Galaxy Generator
+- https://scroll-based-animations-lesson-19.vercel.app/ - Lesson 19 Scroll Based Animations
 
 ## Usage
 
